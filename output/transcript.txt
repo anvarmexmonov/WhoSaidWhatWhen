@@ -1,0 +1,17 @@
+================================================================================
+TIME            | SPEAKER      | TEXT
+================================================================================
+0.0s-1.1s       | SPEAKER_00   | Do you like your home time?
+1.5s-2.8s       | SPEAKER_01   | No, it's boring.
+3.0s-4.8s       | SPEAKER_02   | No, there isn't much going on.
+5.1s-6.9s       | SPEAKER_00   | What's one good thing about your home time?
+7.0s-8.6s       | SPEAKER_01   | There are a lot of shops.
+8.8s-11.4s      | SPEAKER_02   | I think there are a lot of good shopping opportunities.
+11.6s-12.3s     | SPEAKER_00   | Who do you live with?
+12.6s-13.8s     | SPEAKER_01   | I live with my friends.
+13.9s-15.8s     | SPEAKER_02   | I share an apartment with flatmates.
+16.1s-17.5s     | SPEAKER_00   | What do you love about your home?
+17.9s-17.9s     | SPEAKER_02   | And
+17.9s-19.5s     | SPEAKER_01   | A nice view from my window.
+19.8s-20.9s     | SPEAKER_02   | I overlooked the park
+================================================================================

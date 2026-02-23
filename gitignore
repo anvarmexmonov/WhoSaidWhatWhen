@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+.venv/
+env/
+
+# Audio files (too large for git)
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.flac
+*.ogg
+*.aac
+temp_converted.wav
+
+# Output transcripts
+transcript.txt
+output/
+
+# Hugging Face cache
+.cache/
+*.bin
+*.pt
+*.safetensors
+
+# PyCharm
+.idea/
+*.iml
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

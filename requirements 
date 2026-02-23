@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+pyannote.audio
+faster-whisper
+pydub
