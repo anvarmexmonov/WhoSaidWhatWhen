@@ -80,11 +80,11 @@ python main.py
 ## Project Structure
 
 ```
-audio-diarization/
-├── main.py            
-├── transcript.txt     
-├── audio/             
-├── requirements.txt
+who-said-what-when/
+├── main.py
+├── requirements
+├── architecture.png
+├── LICENSE
 ├── .gitignore
 └── README.md
 ```
