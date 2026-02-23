@@ -6,7 +6,7 @@ __pycache__/
 venv/
 .venv/
 env/
-.idea
+.idea/
 
 # Audio files (too large for git)
 *.wav
