@@ -1,4 +1,4 @@
-# Audio Diarization & Transcription
+# Who-Said-What-When
 
 Automatically detects **who spoke** and **what they said** in any audio file.
 Built with [Pyannote](https://github.com/pyannote/pyannote-audio) for speaker diarization and [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) for speech recognition.
