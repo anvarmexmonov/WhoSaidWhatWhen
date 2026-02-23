@@ -99,3 +99,19 @@ audio-diarization/
 | VRAM      | 6GB+ recommended           |
 | Python    | 3.9+                       |
 | OS        | Windows / Linux            |
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+If you use this project in your research, please cite it as:
+```bibtex
+@software{mexmonov2026whosaidwhatwhen,
+  author    = {Anvar Mexmonov},
+  title     = {WhoSaidWhatWhen: Speaker Diarization and ASR Pipeline},
+  year      = {2026},
+  url       = {https://github.com/anvarmexmonov/whosaidwhatwhen}
+}
+```
