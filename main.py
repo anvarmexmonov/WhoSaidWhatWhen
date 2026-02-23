@@ -27,10 +27,10 @@ def main():
         )
 
         processing_file = temp_wav
-        print(f"✅ Converted to proper WAV: {temp_wav}")
+        print(f" Converted to proper WAV: {temp_wav}")
 
     except Exception as e:
-        print(f"❌ Error converting audio: {e}")
+        print(f" Error converting audio: {e}")
         return
 
 
@@ -117,7 +117,7 @@ def main():
                     timestamp = f"{segment.start:.1f}s-{segment.end:.1f}s"
                     line = f"{timestamp:<15} | {speaker:<12} | {text}"
                     print(line)
-                    f.write(line + "\n")  # 👈 ADDED
+                    f.write(line + "\n")
 
             except Exception as e:
                 print(f"  Transcription error at {segment.start:.1f}s: {e}")
